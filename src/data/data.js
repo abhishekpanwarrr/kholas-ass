@@ -1,3 +1,5 @@
+// JSON DATA Exported
+
 export const DATA = [
   {
     id: "1",
